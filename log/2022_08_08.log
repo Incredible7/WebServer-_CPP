@@ -1,0 +1,288 @@
+2022-08-08 19:36:30.744195 [error]: ========== Server init error!==========
+2022-08-08 19:39:12.449607 [error]: ========== Server init error!==========
+2022-08-08 19:50:21.825235 [info] : ========== Server init ==========
+2022-08-08 19:50:21.825268 [info] : Port: 1316, OpenLinger: false
+2022-08-08 19:50:21.825276 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-08-08 19:50:21.825280 [info] : LogSys level: 1
+2022-08-08 19:50:21.825284 [info] : srcDir: /home/seduce/VSCode/C++/Webserver/resources/
+2022-08-08 19:50:21.825384 [info] : SqlConnPool Num: 12, ThreadPool Num: 6
+2022-08-08 19:50:21.825394 [info] : ========== Server start ==========
+2022-08-08 19:50:25.374416 [info] : Client[6](192.168.241.1:23265) in, userCount:1
+2022-08-08 19:50:25.374622 [info] : Client[6] in!
+2022-08-08 19:50:38.644601 [info] : ========== Server init ==========
+2022-08-08 19:50:38.644630 [info] : Port: 1316, OpenLinger: false
+2022-08-08 19:50:38.644638 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-08-08 19:50:38.644643 [info] : LogSys level: 1
+2022-08-08 19:50:38.644737 [info] : srcDir: /home/seduce/VSCode/C++/Webserver/resources/
+2022-08-08 19:50:38.644747 [info] : SqlConnPool Num: 12, ThreadPool Num: 6
+2022-08-08 19:50:38.644752 [info] : ========== Server start ==========
+2022-08-08 19:50:40.977308 [info] : Client[6](192.168.241.1:28385) in, userCount:1
+2022-08-08 19:50:40.977442 [info] : Client[6] in!
+2022-08-08 19:51:00.435323 [info] : ========== Server init ==========
+2022-08-08 19:51:00.435348 [info] : Port: 1316, OpenLinger: false
+2022-08-08 19:51:00.435355 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-08-08 19:51:00.435358 [info] : LogSys level: 1
+2022-08-08 19:51:00.435361 [info] : srcDir: /home/seduce/VSCode/C++/Webserver/resources/
+2022-08-08 19:51:00.435438 [info] : SqlConnPool Num: 12, ThreadPool Num: 6
+2022-08-08 19:51:00.435447 [info] : ========== Server start ==========
+2022-08-08 19:51:02.227969 [info] : Client[6](192.168.241.1:32225) in, userCount:1
+2022-08-08 19:51:02.228110 [info] : Client[6] in!
+2022-08-08 19:51:02.404577 [info] : Client[8](192.168.241.1:32737) in, userCount:2
+2022-08-08 19:51:02.404775 [info] : Client[8] in!
+2022-08-08 19:51:02.405004 [info] : Client[9](192.168.241.1:32993) in, userCount:3
+2022-08-08 19:51:02.405114 [info] : Client[9] in!
+2022-08-08 19:51:02.406872 [info] : Client[10](192.168.241.1:33249) in, userCount:4
+2022-08-08 19:51:02.406958 [info] : Client[10] in!
+2022-08-08 19:51:02.408399 [info] : Client[11](192.168.241.1:33505) in, userCount:5
+2022-08-08 19:51:02.408635 [info] : Client[11] in!
+2022-08-08 19:51:02.410666 [info] : Client[12](192.168.241.1:33761) in, userCount:6
+2022-08-08 19:51:02.410931 [info] : Client[12] in!
+2022-08-08 19:51:16.732661 [info] : Client[9] quit!
+2022-08-08 19:51:16.733637 [info] : Client[9](192.168.241.1:32993) quit, UserCount:5
+2022-08-08 19:51:16.921745 [info] : Client[7](192.168.241.1:35809) in, userCount:6
+2022-08-08 19:51:16.921939 [info] : Client[7] in!
+2022-08-08 19:51:26.004649 [info] : Verify name:name pwd:password
+2022-08-08 20:16:31.404401 [info] : ========== Server init ==========
+2022-08-08 20:16:31.404431 [info] : Port: 1316, OpenLinger: false
+2022-08-08 20:16:31.404439 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-08-08 20:16:31.404444 [info] : LogSys level: 1
+2022-08-08 20:16:31.404542 [info] : srcDir: /home/seduce/VSCode/C++/Webserver/resources/
+2022-08-08 20:16:31.404554 [info] : SqlConnPool Num: 12, ThreadPool Num: 6
+2022-08-08 20:16:31.404559 [info] : ========== Server start ==========
+2022-08-08 20:16:33.179947 [info] : Client[6](192.168.241.1:12011) in, userCount:1
+2022-08-08 20:16:33.180077 [info] : Client[6] in!
+2022-08-08 20:16:33.494680 [info] : Client[7](192.168.241.1:12267) in, userCount:2
+2022-08-08 20:16:33.494800 [info] : Client[7] in!
+2022-08-08 20:16:33.495560 [info] : Client[8](192.168.241.1:12523) in, userCount:3
+2022-08-08 20:16:33.495680 [info] : Client[8] in!
+2022-08-08 20:16:33.497707 [info] : Client[9](192.168.241.1:12779) in, userCount:4
+2022-08-08 20:16:33.497841 [info] : Client[9] in!
+2022-08-08 20:16:33.499677 [info] : Client[10](192.168.241.1:13035) in, userCount:5
+2022-08-08 20:16:33.499766 [info] : Client[10] in!
+2022-08-08 20:16:35.233142 [info] : Client[11](192.168.241.1:13803) in, userCount:6
+2022-08-08 20:16:35.233947 [info] : Client[11] in!
+2022-08-08 20:21:58.180044 [info] : ========== Server init ==========
+2022-08-08 20:21:58.180075 [info] : Port: 1316, OpenLinger: false
+2022-08-08 20:21:58.180082 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-08-08 20:21:58.180086 [info] : LogSys level: 1
+2022-08-08 20:21:58.180090 [info] : srcDir: /home/seduce/VSCode/C++/Webserver/resources/
+2022-08-08 20:21:58.180179 [info] : SqlConnPool Num: 12, ThreadPool Num: 6
+2022-08-08 20:21:58.180189 [info] : ========== Server start ==========
+2022-08-08 20:22:05.960554 [info] : Client[18](192.168.241.1:1516) in, userCount:1
+2022-08-08 20:22:05.960691 [info] : Client[18] in!
+2022-08-08 20:22:06.128491 [info] : Client[21](192.168.241.1:1772) in, userCount:2
+2022-08-08 20:22:06.128732 [info] : Client[21] in!
+2022-08-08 20:22:06.128795 [info] : Client[22](192.168.241.1:2028) in, userCount:3
+2022-08-08 20:22:06.128838 [info] : Client[22] in!
+2022-08-08 20:22:06.131433 [info] : Client[23](192.168.241.1:2540) in, userCount:4
+2022-08-08 20:22:06.131563 [info] : Client[23] in!
+2022-08-08 20:22:06.131667 [info] : Client[24](192.168.241.1:2284) in, userCount:5
+2022-08-08 20:22:06.131703 [info] : Client[24] in!
+2022-08-08 20:22:06.131740 [info] : Client[25](192.168.241.1:2796) in, userCount:6
+2022-08-08 20:22:06.131759 [info] : Client[25] in!
+2022-08-08 20:22:17.810007 [info] : Verify name:name pwd:password
+2022-08-08 20:22:17.871366 [error]: RequestLine Error!
+2022-08-08 20:22:17.874146 [info] : Client[18] quit!
+2022-08-08 20:22:17.874947 [info] : Client[18](192.168.241.1:1516) quit, UserCount:5
+2022-08-08 20:23:06.184965 [info] : Client[23] quit!
+2022-08-08 20:23:06.185219 [info] : Client[23](192.168.241.1:2540) quit, UserCount:4
+2022-08-08 20:23:10.753074 [info] : Client[24] quit!
+2022-08-08 20:23:10.753374 [info] : Client[24](192.168.241.1:2284) quit, UserCount:3
+2022-08-08 20:23:17.880754 [info] : Client[18] quit!
+2022-08-08 20:23:18.031814 [info] : Client[22] quit!
+2022-08-08 20:23:18.032088 [info] : Client[22](192.168.241.1:2028) quit, UserCount:2
+2022-08-08 20:23:18.090266 [info] : Client[21] quit!
+2022-08-08 20:23:18.090536 [info] : Client[21](192.168.241.1:1772) quit, UserCount:1
+2022-08-08 20:23:18.098237 [info] : Client[25] quit!
+2022-08-08 20:23:18.098477 [info] : Client[25](192.168.241.1:2796) quit, UserCount:0
+2022-08-08 20:23:22.057764 [info] : Client[18](192.168.241.1:18156) in, userCount:1
+2022-08-08 20:23:22.057915 [info] : Client[18] in!
+2022-08-08 20:23:22.275319 [info] : Client[21](192.168.241.1:18412) in, userCount:2
+2022-08-08 20:23:22.275451 [info] : Client[21] in!
+2022-08-08 20:23:22.278652 [info] : Client[22](192.168.241.1:18668) in, userCount:3
+2022-08-08 20:23:22.278867 [info] : Client[22] in!
+2022-08-08 20:23:22.278932 [info] : Client[23](192.168.241.1:18924) in, userCount:4
+2022-08-08 20:23:22.278960 [info] : Client[23] in!
+2022-08-08 20:23:22.280414 [info] : Client[24](192.168.241.1:19180) in, userCount:5
+2022-08-08 20:23:22.280616 [info] : Client[24] in!
+2022-08-08 20:23:22.280684 [info] : Client[25](192.168.241.1:19436) in, userCount:6
+2022-08-08 20:23:22.280722 [info] : Client[25] in!
+2022-08-08 20:23:42.596922 [info] : Client[18] quit!
+2022-08-08 20:23:42.598022 [info] : Client[18](192.168.241.1:18156) quit, UserCount:5
+2022-08-08 20:23:42.776157 [info] : Client[18](192.168.241.1:32492) in, userCount:6
+2022-08-08 20:23:42.776482 [info] : Client[18] in!
+2022-08-08 20:23:55.829412 [info] : Client[25] quit!
+2022-08-08 20:23:55.829877 [info] : Client[25](192.168.241.1:19436) quit, UserCount:5
+2022-08-08 20:23:56.025570 [info] : Client[25](192.168.241.1:34284) in, userCount:6
+2022-08-08 20:23:56.026625 [info] : Client[25] in!
+2022-08-08 20:24:01.712288 [info] : Verify name:name pwd:password
+2022-08-08 20:24:01.716975 [error]: RequestLine Error!
+2022-08-08 20:24:01.717202 [info] : Client[23] quit!
+2022-08-08 20:24:01.717387 [info] : Client[23](192.168.241.1:18924) quit, UserCount:5
+2022-08-08 20:24:16.619143 [info] : Client[23](192.168.241.1:36844) in, userCount:6
+2022-08-08 20:24:16.619577 [info] : Client[23] in!
+2022-08-08 20:24:30.240795 [info] : Verify name:2020210594 pwd:mi020418
+2022-08-08 20:24:30.298208 [error]: RequestLine Error!
+2022-08-08 20:24:30.298581 [info] : Client[22] quit!
+2022-08-08 20:24:30.298822 [info] : Client[22](192.168.241.1:18668) quit, UserCount:5
+2022-08-08 20:24:30.512694 [info] : Client[22](192.168.241.1:38892) in, userCount:6
+2022-08-08 20:24:30.512838 [info] : Client[22] in!
+2022-08-08 20:25:44.523118 [info] : Client[22] quit!
+2022-08-08 20:25:44.523440 [info] : Client[22](192.168.241.1:38892) quit, UserCount:5
+2022-08-08 20:25:44.523537 [info] : Client[24] quit!
+2022-08-08 20:25:44.523637 [info] : Client[24](192.168.241.1:19180) quit, UserCount:4
+2022-08-08 20:25:44.523742 [info] : Client[21] quit!
+2022-08-08 20:25:44.523932 [info] : Client[21](192.168.241.1:18412) quit, UserCount:3
+2022-08-08 20:25:44.523988 [info] : Client[25] quit!
+2022-08-08 20:25:44.524160 [info] : Client[25](192.168.241.1:34284) quit, UserCount:2
+2022-08-08 20:25:44.524198 [info] : Client[18] quit!
+2022-08-08 20:25:44.524277 [info] : Client[18](192.168.241.1:32492) quit, UserCount:1
+2022-08-08 20:25:44.524408 [info] : Client[23] quit!
+2022-08-08 20:34:47.805420 [info] : ========== Server init ==========
+2022-08-08 20:34:47.805448 [info] : Port: 1316, OpenLinger: false
+2022-08-08 20:34:47.805456 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-08-08 20:34:47.805459 [info] : LogSys level: 1
+2022-08-08 20:34:47.805549 [info] : srcDir: /home/seduce/VSCode/C++/Webserver/resources/
+2022-08-08 20:34:47.805559 [info] : SqlConnPool Num: 12, ThreadPool Num: 6
+2022-08-08 20:34:47.805563 [info] : ========== Server start ==========
+2022-08-08 20:34:55.458432 [info] : Client[18](192.168.241.1:10735) in, userCount:1
+2022-08-08 20:34:55.459265 [info] : Client[18] in!
+2022-08-08 20:34:55.801777 [info] : Client[18] quit!
+2022-08-08 20:34:55.802004 [info] : Client[18](192.168.241.1:10735) quit, UserCount:0
+2022-08-08 20:34:55.803450 [info] : Client[18](192.168.241.1:10991) in, userCount:1
+2022-08-08 20:34:55.803576 [info] : Client[18] in!
+2022-08-08 20:34:55.803618 [info] : Client[18] quit!
+2022-08-08 20:34:55.803707 [info] : Client[18](192.168.241.1:10991) quit, UserCount:0
+2022-08-08 20:34:55.803777 [info] : Client[18](192.168.241.1:11247) in, userCount:1
+2022-08-08 20:34:55.803792 [info] : Client[18] in!
+2022-08-08 20:34:55.803922 [info] : Client[18] quit!
+2022-08-08 20:34:55.804065 [info] : Client[18](192.168.241.1:11247) quit, UserCount:0
+2022-08-08 20:34:55.804151 [info] : Client[18](192.168.241.1:11503) in, userCount:1
+2022-08-08 20:34:55.804179 [info] : Client[18] in!
+2022-08-08 20:34:55.823419 [info] : Client[18] quit!
+2022-08-08 20:34:55.823677 [info] : Client[18](192.168.241.1:11503) quit, UserCount:0
+2022-08-08 20:35:02.768672 [info] : Client[18](192.168.241.1:13807) in, userCount:1
+2022-08-08 20:35:02.768779 [info] : Client[18] in!
+2022-08-08 20:35:03.120843 [info] : Client[21](192.168.241.1:14063) in, userCount:2
+2022-08-08 20:35:03.121000 [info] : Client[21] in!
+2022-08-08 20:35:03.131371 [info] : Client[22](192.168.241.1:14319) in, userCount:3
+2022-08-08 20:35:03.131585 [info] : Client[22] in!
+2022-08-08 20:35:03.131646 [info] : Client[23](192.168.241.1:14575) in, userCount:4
+2022-08-08 20:35:03.131657 [info] : Client[23] in!
+2022-08-08 20:35:03.131688 [info] : Client[24](192.168.241.1:14831) in, userCount:5
+2022-08-08 20:35:03.131741 [info] : Client[24] in!
+2022-08-08 20:35:03.131761 [info] : Client[25](192.168.241.1:15087) in, userCount:6
+2022-08-08 20:35:03.131769 [info] : Client[25] in!
+2022-08-08 20:35:12.604845 [info] : Verify name:name pwd:pass
+2022-08-08 20:35:12.610841 [error]: RequestLine Error!
+2022-08-08 20:35:12.611293 [info] : Client[18] quit!
+2022-08-08 20:35:12.611448 [info] : Client[18](192.168.241.1:13807) quit, UserCount:5
+2022-08-08 20:35:17.635182 [info] : Client[18](192.168.241.1:17647) in, userCount:6
+2022-08-08 20:35:17.635268 [info] : Client[18] in!
+2022-08-08 20:35:21.908764 [info] : Verify name:name pwd:password
+2022-08-08 20:35:21.914936 [error]: RequestLine Error!
+2022-08-08 20:35:21.916055 [info] : Client[25] quit!
+2022-08-08 20:35:21.916237 [info] : Client[25](192.168.241.1:15087) quit, UserCount:5
+2022-08-08 20:36:21.958008 [info] : Client[25] quit!
+2022-08-08 20:36:22.143932 [info] : Client[23] quit!
+2022-08-08 20:36:22.144214 [info] : Client[23](192.168.241.1:14575) quit, UserCount:4
+2022-08-08 20:36:22.144296 [info] : Client[22] quit!
+2022-08-08 20:36:22.144423 [info] : Client[22](192.168.241.1:14319) quit, UserCount:3
+2022-08-08 20:36:22.144495 [info] : Client[24] quit!
+2022-08-08 20:36:22.144609 [info] : Client[24](192.168.241.1:14831) quit, UserCount:2
+2022-08-08 20:36:22.148651 [info] : Client[21] quit!
+2022-08-08 20:36:22.148885 [info] : Client[21](192.168.241.1:14063) quit, UserCount:1
+2022-08-08 20:36:22.157593 [info] : Client[18] quit!
+2022-08-08 20:36:22.157866 [info] : Client[18](192.168.241.1:17647) quit, UserCount:0
+2022-08-08 20:57:30.358823 [info] : ========== Server init ==========
+2022-08-08 20:57:30.358851 [info] : Port: 1316, OpenLinger: false
+2022-08-08 20:57:30.358859 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-08-08 20:57:30.358943 [info] : LogSys level: 1
+2022-08-08 20:57:30.358953 [info] : srcDir: /home/seduce/VSCode/C++/Webserver/resources/
+2022-08-08 20:57:30.358957 [info] : SqlConnPool Num: 12, ThreadPool Num: 6
+2022-08-08 20:57:30.359029 [info] : ========== Server start ==========
+2022-08-08 20:57:38.807999 [info] : Client[18](192.168.241.1:2804) in, userCount:1
+2022-08-08 20:57:38.808431 [info] : Client[18] in!
+2022-08-08 20:57:38.809197 [debug]: [GET], [/index.html], [1.1]
+2022-08-08 20:57:38.809356 [debug]: /index.html
+2022-08-08 20:57:38.809493 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//index.html
+2022-08-08 20:57:38.809521 [debug]: Filesize:3148, 2, to 3270
+2022-08-08 20:57:39.165948 [info] : Client[21](192.168.241.1:3572) in, userCount:2
+2022-08-08 20:57:39.166098 [debug]: [GET], [/css/bootstrap.min.css], [1.1]
+2022-08-08 20:57:39.166117 [info] : Client[21] in!
+2022-08-08 20:57:39.166126 [debug]: /css/bootstrap.min.css
+2022-08-08 20:57:39.166351 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//css/bootstrap.min.css
+2022-08-08 20:57:39.166455 [debug]: Filesize:121260, 2, to 121384
+2022-08-08 20:57:39.167491 [debug]: [GET], [/css/animate.css], [1.1]
+2022-08-08 20:57:39.167628 [debug]: /css/animate.css
+2022-08-08 20:57:39.167671 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//css/animate.css
+2022-08-08 20:57:39.167750 [debug]: Filesize:72922, 2, to 73045
+2022-08-08 20:57:39.169487 [info] : Client[22](192.168.241.1:3828) in, userCount:3
+2022-08-08 20:57:39.169636 [info] : Client[22] in!
+2022-08-08 20:57:39.170633 [info] : Client[23](192.168.241.1:4084) in, userCount:4
+2022-08-08 20:57:39.170757 [debug]: [GET], [/css/magnific-popup.css], [1.1]
+2022-08-08 20:57:39.170989 [debug]: /css/magnific-popup.css
+2022-08-08 20:57:39.171018 [info] : Client[23] in!
+2022-08-08 20:57:39.171178 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//css/magnific-popup.css
+2022-08-08 20:57:39.171373 [info] : Client[25](192.168.241.1:4340) in, userCount:5
+2022-08-08 20:57:39.171386 [debug]: Filesize:6951, 2, to 7073
+2022-08-08 20:57:39.171521 [info] : Client[25] in!
+2022-08-08 20:57:39.172372 [debug]: [GET], [/css/font-awesome.min.css], [1.1]
+2022-08-08 20:57:39.172502 [debug]: /css/font-awesome.min.css
+2022-08-08 20:57:39.172560 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//css/font-awesome.min.css
+2022-08-08 20:57:39.172580 [debug]: Filesize:27392, 2, to 27515
+2022-08-08 20:57:39.172647 [info] : Client[24](192.168.241.1:4596) in, userCount:6
+2022-08-08 20:57:39.172912 [info] : Client[24] in!
+2022-08-08 20:57:39.173369 [debug]: [GET], [/css/style.css], [1.1]
+2022-08-08 20:57:39.173860 [debug]: [GET], [/js/jquery.js], [1.1]
+2022-08-08 20:57:39.173818 [debug]: [GET], [/js/bootstrap.min.js], [1.1]
+2022-08-08 20:57:39.174175 [debug]: /js/bootstrap.min.js
+2022-08-08 20:57:39.174025 [debug]: /css/style.css
+2022-08-08 20:57:39.174175 [debug]: /js/jquery.js
+2022-08-08 20:57:39.174353 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//css/style.css
+2022-08-08 20:57:39.174428 [debug]: Filesize:9807, 2, to 9929
+2022-08-08 20:57:39.174330 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//js/bootstrap.min.js
+2022-08-08 20:57:39.174641 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//js/jquery.js
+2022-08-08 20:57:39.174674 [debug]: Filesize:85658, 2, to 85788
+2022-08-08 20:57:39.175252 [debug]: [GET], [/js/jquery.magnific-popup.min.js], [1.1]
+2022-08-08 20:57:39.175376 [debug]: /js/jquery.magnific-popup.min.js
+2022-08-08 20:57:39.176528 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//js/jquery.magnific-popup.min.js
+2022-08-08 20:57:39.176649 [debug]: Filesize:20932, 2, to 21062
+2022-08-08 20:57:39.175418 [debug]: Filesize:36868, 2, to 36998
+2022-08-08 20:57:39.175773 [debug]: [GET], [/js/smoothscroll.js], [1.1]
+2022-08-08 20:57:39.176233 [debug]: [GET], [/js/wow.min.js], [1.1]
+2022-08-08 20:57:39.177084 [debug]: /js/smoothscroll.js
+2022-08-08 20:57:39.177547 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//js/smoothscroll.js
+2022-08-08 20:57:39.177606 [debug]: Filesize:4474, 2, to 4603
+2022-08-08 20:57:39.177650 [debug]: [GET], [/js/magnific-popup-options.js], [1.1]
+2022-08-08 20:57:39.177815 [debug]: /js/magnific-popup-options.js
+2022-08-08 20:57:39.177137 [debug]: /js/wow.min.js
+2022-08-08 20:57:39.178366 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//js/wow.min.js
+2022-08-08 20:57:39.179204 [debug]: [GET], [/js/custom.js], [1.1]
+2022-08-08 20:57:39.179420 [debug]: Filesize:7082, 2, to 7211
+2022-08-08 20:57:39.178405 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//js/magnific-popup-options.js
+2022-08-08 20:57:39.179475 [debug]: /js/custom.js
+2022-08-08 20:57:39.179507 [debug]: Filesize:1069, 2, to 1198
+2022-08-08 20:57:39.179556 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//js/custom.js
+2022-08-08 20:57:39.179569 [debug]: Filesize:1047, 2, to 1176
+2022-08-08 20:57:39.329134 [debug]: [GET], [/images/profile-image.jpg], [1.1]
+2022-08-08 20:57:39.329264 [debug]: /images/profile-image.jpg
+2022-08-08 20:57:39.329772 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//images/profile-image.jpg
+2022-08-08 20:57:39.329934 [debug]: Filesize:47176, 2, to 47300
+2022-08-08 20:57:39.468965 [debug]: [GET], [/images/favicon.ico], [1.1]
+2022-08-08 20:57:39.469141 [debug]: /images/favicon.ico
+2022-08-08 20:57:39.469381 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//images/favicon.ico
+2022-08-08 20:57:39.471622 [debug]: Filesize:60990, 2, to 61114
+2022-08-08 20:57:39.471779 [info] : Client[18] quit!
+2022-08-08 20:57:39.471959 [info] : Client[18](192.168.241.1:2804) quit, UserCount:5
+2022-08-08 20:58:39.236435 [info] : Client[22] quit!
+2022-08-08 20:58:39.236696 [info] : Client[22](192.168.241.1:3828) quit, UserCount:4
+2022-08-08 20:58:39.236740 [info] : Client[25] quit!
+2022-08-08 20:58:39.236948 [info] : Client[25](192.168.241.1:4340) quit, UserCount:3
+2022-08-08 20:58:39.237010 [info] : Client[24] quit!
+2022-08-08 20:58:39.237127 [info] : Client[24](192.168.241.1:4596) quit, UserCount:2
+2022-08-08 20:58:39.237181 [info] : Client[23] quit!
+2022-08-08 20:58:39.237273 [info] : Client[23](192.168.241.1:4084) quit, UserCount:1
+2022-08-08 20:58:39.237312 [info] : Client[21] quit!
+2022-08-08 20:58:39.237400 [info] : Client[21](192.168.241.1:3572) quit, UserCount:0
+2022-08-08 20:58:39.468569 [info] : Client[18] quit!

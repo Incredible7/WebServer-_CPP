@@ -1,0 +1,279 @@
+2022-08-13 19:32:34.405658 [error]: ========== Server init error!==========
+2022-08-13 19:35:38.093079 [info] : ========== Server init ==========
+2022-08-13 19:35:38.093102 [info] : Port: 2000, OpenLinger: false
+2022-08-13 19:35:38.093109 [info] : Listen Mode: ET, OpenConn Mode: ET
+2022-08-13 19:35:38.093112 [info] : LogSys level: 1
+2022-08-13 19:35:38.093114 [info] : srcDir: /home/seduce/VSCode/C++/Webserver/resources/
+2022-08-13 19:35:38.093188 [info] : SqlConnPool Num: 12, ThreadPool Num: 6
+2022-08-13 19:35:38.093197 [info] : ========== Server start ==========
+2022-08-13 19:36:01.295414 [info] : Client[18](192.168.241.1:4034) in, userCount:1
+2022-08-13 19:36:01.295692 [info] : Client[18] in!
+2022-08-13 19:36:01.296493 [debug]: [GET], [/index.html], [1.1]
+2022-08-13 19:36:01.296568 [debug]: /index.html
+2022-08-13 19:36:01.296645 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//index.html
+2022-08-13 19:36:01.296694 [debug]: Filesize:3148, 2, to 3270
+2022-08-13 19:36:01.499419 [debug]: [GET], [/css/bootstrap.min.css], [1.1]
+2022-08-13 19:36:01.499743 [debug]: /css/bootstrap.min.css
+2022-08-13 19:36:01.500051 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//css/bootstrap.min.css
+2022-08-13 19:36:01.501645 [info] : Client[22](192.168.241.1:4290) in, userCount:2
+2022-08-13 19:36:01.501845 [info] : Client[22] in!
+2022-08-13 19:36:01.502131 [info] : Client[23](192.168.241.1:5314) in, userCount:3
+2022-08-13 19:36:01.502170 [info] : Client[23] in!
+2022-08-13 19:36:01.502663 [debug]: Filesize:121260, 2, to 121384
+2022-08-13 19:36:01.503424 [info] : Client[21](192.168.241.1:5570) in, userCount:4
+2022-08-13 19:36:01.503949 [info] : Client[21] in!
+2022-08-13 19:36:01.505349 [debug]: [GET], [/css/magnific-popup.css], [1.1]
+2022-08-13 19:36:01.505401 [debug]: /css/magnific-popup.css
+2022-08-13 19:36:01.505444 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//css/magnific-popup.css
+2022-08-13 19:36:01.505701 [debug]: [GET], [/css/animate.css], [1.1]
+2022-08-13 19:36:01.505882 [info] : Client[25](192.168.241.1:6082) in, userCount:5
+2022-08-13 19:36:01.506134 [debug]: /css/animate.css
+2022-08-13 19:36:01.506265 [info] : Client[25] in!
+2022-08-13 19:36:01.506276 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//css/animate.css
+2022-08-13 19:36:01.507076 [debug]: [GET], [/css/font-awesome.min.css], [1.1]
+2022-08-13 19:36:01.507178 [debug]: [GET], [/css/style.css], [1.1]
+2022-08-13 19:36:01.507263 [debug]: Filesize:6951, 2, to 7073
+2022-08-13 19:36:01.508103 [debug]: Filesize:72922, 2, to 73045
+2022-08-13 19:36:01.508341 [debug]: /css/font-awesome.min.css
+2022-08-13 19:36:01.508391 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//css/font-awesome.min.css
+2022-08-13 19:36:01.508163 [debug]: /css/style.css
+2022-08-13 19:36:01.508619 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//css/style.css
+2022-08-13 19:36:01.509214 [info] : Client[27](192.168.241.1:6338) in, userCount:6
+2022-08-13 19:36:01.509399 [debug]: Filesize:27392, 2, to 27515
+2022-08-13 19:36:01.510102 [info] : Client[27] in!
+2022-08-13 19:36:01.510200 [debug]: Filesize:9807, 2, to 9929
+2022-08-13 19:36:01.511514 [debug]: [GET], [/js/jquery.js], [1.1]
+2022-08-13 19:36:01.511795 [debug]: [GET], [/js/bootstrap.min.js], [1.1]
+2022-08-13 19:36:01.512086 [debug]: /js/jquery.js
+2022-08-13 19:36:01.512172 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//js/jquery.js
+2022-08-13 19:36:01.512562 [debug]: /js/bootstrap.min.js
+2022-08-13 19:36:01.512940 [debug]: Filesize:85658, 2, to 85788
+2022-08-13 19:36:01.512968 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//js/bootstrap.min.js
+2022-08-13 19:36:01.513596 [debug]: [GET], [/js/smoothscroll.js], [1.1]
+2022-08-13 19:36:01.513716 [debug]: /js/smoothscroll.js
+2022-08-13 19:36:01.514212 [debug]: Filesize:36868, 2, to 36998
+2022-08-13 19:36:01.514415 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//js/smoothscroll.js
+2022-08-13 19:36:01.515124 [debug]: Filesize:4474, 2, to 4603
+2022-08-13 19:36:01.516079 [debug]: [GET], [/js/jquery.magnific-popup.min.js], [1.1]
+2022-08-13 19:36:01.516132 [debug]: /js/jquery.magnific-popup.min.js
+2022-08-13 19:36:01.516223 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//js/jquery.magnific-popup.min.js
+2022-08-13 19:36:01.517726 [debug]: [GET], [/js/magnific-popup-options.js], [1.1]
+2022-08-13 19:36:01.517877 [debug]: /js/magnific-popup-options.js
+2022-08-13 19:36:01.517978 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//js/magnific-popup-options.js
+2022-08-13 19:36:01.518069 [debug]: Filesize:1069, 2, to 1198
+2022-08-13 19:36:01.517878 [debug]: Filesize:20932, 2, to 21062
+2022-08-13 19:36:01.520969 [debug]: [GET], [/images/profile-image.jpg], [1.1]
+2022-08-13 19:36:01.521026 [debug]: /images/profile-image.jpg
+2022-08-13 19:36:01.521128 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//images/profile-image.jpg
+2022-08-13 19:36:01.522146 [debug]: Filesize:47176, 2, to 47300
+2022-08-13 19:36:01.524374 [debug]: [GET], [/js/wow.min.js], [1.1]
+2022-08-13 19:36:01.524533 [debug]: /js/wow.min.js
+2022-08-13 19:36:01.524664 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//js/wow.min.js
+2022-08-13 19:36:01.525341 [debug]: Filesize:7082, 2, to 7211
+2022-08-13 19:36:01.534757 [debug]: [GET], [/js/custom.js], [1.1]
+2022-08-13 19:36:01.534932 [debug]: /js/custom.js
+2022-08-13 19:36:01.535158 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//js/custom.js
+2022-08-13 19:36:01.536269 [debug]: Filesize:1047, 2, to 1176
+2022-08-13 19:36:02.177824 [debug]: [GET], [/images/favicon.ico], [1.1]
+2022-08-13 19:36:02.177965 [debug]: /images/favicon.ico
+2022-08-13 19:36:02.178048 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//images/favicon.ico
+2022-08-13 19:36:02.186711 [debug]: Filesize:60990, 2, to 61114
+2022-08-13 19:36:14.022536 [debug]: [GET], [/video.html], [1.1]
+2022-08-13 19:36:14.022720 [debug]: /video.html
+2022-08-13 19:36:14.022850 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//video.html
+2022-08-13 19:36:14.023334 [debug]: Filesize:3347, 2, to 3469
+2022-08-13 19:36:14.245428 [debug]: [GET], [/js/bootstrap.min.js], [1.1]
+2022-08-13 19:36:14.245454 [debug]: [GET], [/js/jquery.js], [1.1]
+2022-08-13 19:36:14.245650 [debug]: /js/jquery.js
+2022-08-13 19:36:14.245716 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//js/jquery.js
+2022-08-13 19:36:14.245804 [debug]: Filesize:85658, 2, to 85788
+2022-08-13 19:36:14.246592 [debug]: [GET], [/css/bootstrap.min.css], [1.1]
+2022-08-13 19:36:14.246626 [debug]: /css/bootstrap.min.css
+2022-08-13 19:36:14.246738 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//css/bootstrap.min.css
+2022-08-13 19:36:14.246805 [debug]: Filesize:121260, 2, to 121384
+2022-08-13 19:36:14.246984 [debug]: [GET], [/js/magnific-popup-options.js], [1.1]
+2022-08-13 19:36:14.247024 [debug]: /js/magnific-popup-options.js
+2022-08-13 19:36:14.247114 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//js/magnific-popup-options.js
+2022-08-13 19:36:14.247136 [debug]: Filesize:1069, 2, to 1198
+2022-08-13 19:36:14.247556 [debug]: [GET], [/js/smoothscroll.js], [1.1]
+2022-08-13 19:36:14.245588 [debug]: /js/bootstrap.min.js
+2022-08-13 19:36:14.247685 [debug]: /js/smoothscroll.js
+2022-08-13 19:36:14.246738 [debug]: [GET], [/js/jquery.magnific-popup.min.js], [1.1]
+2022-08-13 19:36:14.247801 [debug]: /js/jquery.magnific-popup.min.js
+2022-08-13 19:36:14.248114 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//js/bootstrap.min.js
+2022-08-13 19:36:14.249879 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//js/jquery.magnific-popup.min.js
+2022-08-13 19:36:14.250000 [debug]: [GET], [/css/animate.css], [1.1]
+2022-08-13 19:36:14.250180 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//js/smoothscroll.js
+2022-08-13 19:36:14.250244 [debug]: Filesize:20932, 2, to 21062
+2022-08-13 19:36:14.250247 [debug]: /css/animate.css
+2022-08-13 19:36:14.250468 [debug]: Filesize:4474, 2, to 4603
+2022-08-13 19:36:14.250493 [debug]: Filesize:36868, 2, to 36998
+2022-08-13 19:36:14.250596 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//css/animate.css
+2022-08-13 19:36:14.250709 [debug]: Filesize:72922, 2, to 73045
+2022-08-13 19:36:14.250713 [debug]: [GET], [/css/magnific-popup.css], [1.1]
+2022-08-13 19:36:14.250884 [debug]: /css/magnific-popup.css
+2022-08-13 19:36:14.250979 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//css/magnific-popup.css
+2022-08-13 19:36:14.251001 [debug]: Filesize:6951, 2, to 7073
+2022-08-13 19:36:14.251638 [debug]: [GET], [/css/font-awesome.min.css], [1.1]
+2022-08-13 19:36:14.252029 [debug]: /css/font-awesome.min.css
+2022-08-13 19:36:14.252187 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//css/font-awesome.min.css
+2022-08-13 19:36:14.252281 [debug]: Filesize:27392, 2, to 27515
+2022-08-13 19:36:14.253981 [debug]: [GET], [/js/wow.min.js], [1.1]
+2022-08-13 19:36:14.254157 [debug]: /js/wow.min.js
+2022-08-13 19:36:14.254360 [debug]: [GET], [/js/custom.js], [1.1]
+2022-08-13 19:36:14.254394 [debug]: /js/custom.js
+2022-08-13 19:36:14.254630 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//js/custom.js
+2022-08-13 19:36:14.254714 [debug]: Filesize:1047, 2, to 1176
+2022-08-13 19:36:14.255280 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//js/wow.min.js
+2022-08-13 19:36:14.255738 [debug]: Filesize:7082, 2, to 7211
+2022-08-13 19:36:14.256066 [debug]: [GET], [/css/style.css], [1.1]
+2022-08-13 19:36:14.256928 [debug]: /css/style.css
+2022-08-13 19:36:14.257132 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//css/style.css
+2022-08-13 19:36:14.257581 [debug]: Filesize:9807, 2, to 9929
+2022-08-13 19:36:14.275920 [debug]: [GET], [/video/xxx.mp4], [1.1]
+2022-08-13 19:36:14.276059 [debug]: /video/xxx.mp4
+2022-08-13 19:36:14.276217 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//video/xxx.mp4
+2022-08-13 19:36:14.277284 [debug]: Filesize:39667571, 2, to 39667698
+2022-08-13 19:36:14.280976 [debug]: [GET], [/images/profile-image.jpg], [1.1]
+2022-08-13 19:36:14.281054 [debug]: /images/profile-image.jpg
+2022-08-13 19:36:14.281178 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//images/profile-image.jpg
+2022-08-13 19:36:14.281303 [debug]: Filesize:47176, 2, to 47300
+2022-08-13 19:36:14.506976 [debug]: [GET], [/images/favicon.ico], [1.1]
+2022-08-13 19:36:14.507409 [debug]: /images/favicon.ico
+2022-08-13 19:36:14.507792 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//images/favicon.ico
+2022-08-13 19:36:14.507915 [debug]: Filesize:60990, 2, to 61114
+2022-08-13 19:36:14.508208 [info] : Client[18] quit!
+2022-08-13 19:36:14.508601 [info] : Client[18](192.168.241.1:4034) quit, UserCount:5
+2022-08-13 19:36:16.533187 [info] : Client[25] quit!
+2022-08-13 19:36:16.534306 [info] : Client[25](192.168.241.1:6082) quit, UserCount:4
+2022-08-13 19:36:16.564787 [debug]: [GET], [/login.html], [1.1]
+2022-08-13 19:36:16.564898 [debug]: /login.html
+2022-08-13 19:36:16.564977 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//login.html
+2022-08-13 19:36:16.565040 [debug]: Filesize:3385, 2, to 3507
+2022-08-13 19:36:16.946494 [debug]: [GET], [/css/bootstrap.min.css], [1.1]
+2022-08-13 19:36:16.946572 [debug]: /css/bootstrap.min.css
+2022-08-13 19:36:16.946694 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//css/bootstrap.min.css
+2022-08-13 19:36:16.946812 [debug]: Filesize:121260, 2, to 121384
+2022-08-13 19:36:16.946869 [debug]: [GET], [/css/animate.css], [1.1]
+2022-08-13 19:36:16.947078 [debug]: [GET], [/css/magnific-popup.css], [1.1]
+2022-08-13 19:36:16.947141 [debug]: /css/magnific-popup.css
+2022-08-13 19:36:16.947243 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//css/magnific-popup.css
+2022-08-13 19:36:16.947314 [debug]: Filesize:6951, 2, to 7073
+2022-08-13 19:36:16.946998 [debug]: /css/animate.css
+2022-08-13 19:36:16.947455 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//css/animate.css
+2022-08-13 19:36:16.947516 [debug]: Filesize:72922, 2, to 73045
+2022-08-13 19:36:16.948644 [debug]: [GET], [/css/font-awesome.min.css], [1.1]
+2022-08-13 19:36:16.948905 [debug]: /css/font-awesome.min.css
+2022-08-13 19:36:16.949030 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//css/font-awesome.min.css
+2022-08-13 19:36:16.949115 [debug]: Filesize:27392, 2, to 27515
+2022-08-13 19:36:16.951004 [debug]: [GET], [/css/style.css], [1.1]
+2022-08-13 19:36:16.951183 [debug]: /css/style.css
+2022-08-13 19:36:16.951338 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//css/style.css
+2022-08-13 19:36:16.951369 [info] : Client[24](192.168.241.1:11714) in, userCount:5
+2022-08-13 19:36:16.951478 [debug]: Filesize:9807, 2, to 9929
+2022-08-13 19:36:16.951482 [info] : Client[24] in!
+2022-08-13 19:36:16.951737 [info] : Client[18](192.168.241.1:11970) in, userCount:6
+2022-08-13 19:36:16.951873 [info] : Client[18] in!
+2022-08-13 19:36:16.953366 [debug]: [GET], [/js/jquery.js], [1.1]
+2022-08-13 19:36:16.953371 [debug]: [GET], [/js/bootstrap.min.js], [1.1]
+2022-08-13 19:36:16.954351 [debug]: [GET], [/js/jquery.magnific-popup.min.js], [1.1]
+2022-08-13 19:36:16.953574 [debug]: /js/jquery.js
+2022-08-13 19:36:16.953688 [debug]: /js/bootstrap.min.js
+2022-08-13 19:36:16.954501 [debug]: /js/jquery.magnific-popup.min.js
+2022-08-13 19:36:16.954660 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//js/jquery.js
+2022-08-13 19:36:16.954752 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//js/bootstrap.min.js
+2022-08-13 19:36:16.954815 [debug]: [GET], [/js/magnific-popup-options.js], [1.1]
+2022-08-13 19:36:16.955164 [debug]: /js/magnific-popup-options.js
+2022-08-13 19:36:16.955195 [debug]: [GET], [/js/smoothscroll.js], [1.1]
+2022-08-13 19:36:16.955211 [debug]: /js/smoothscroll.js
+2022-08-13 19:36:16.955268 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//js/magnific-popup-options.js
+2022-08-13 19:36:16.955292 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//js/smoothscroll.js
+2022-08-13 19:36:16.955297 [debug]: Filesize:1069, 2, to 1198
+2022-08-13 19:36:16.955310 [debug]: Filesize:4474, 2, to 4603
+2022-08-13 19:36:16.954800 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//js/jquery.magnific-popup.min.js
+2022-08-13 19:36:16.955346 [debug]: Filesize:20932, 2, to 21062
+2022-08-13 19:36:16.954944 [debug]: Filesize:85658, 2, to 85788
+2022-08-13 19:36:16.954988 [debug]: Filesize:36868, 2, to 36998
+2022-08-13 19:36:16.956420 [debug]: [GET], [/js/wow.min.js], [1.1]
+2022-08-13 19:36:16.956691 [debug]: /js/wow.min.js
+2022-08-13 19:36:16.956838 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//js/wow.min.js
+2022-08-13 19:36:16.956915 [debug]: Filesize:7082, 2, to 7211
+2022-08-13 19:36:16.958692 [debug]: [GET], [/js/custom.js], [1.1]
+2022-08-13 19:36:16.958789 [debug]: /js/custom.js
+2022-08-13 19:36:16.958854 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//js/custom.js
+2022-08-13 19:36:16.958946 [debug]: Filesize:1047, 2, to 1176
+2022-08-13 19:36:28.256024 [debug]: username = 2020210594
+2022-08-13 19:36:28.256292 [debug]: Tag:1
+2022-08-13 19:36:28.256423 [info] : Verify name:2020210594 pwd:mi020418
+2022-08-13 19:36:28.256449 [debug]: SELECT username, password FROM user WHERE username='2020210594' LIMIT 1
+2022-08-13 19:36:28.257674 [debug]: MYSQL ROW: 2020210594 mi020418
+2022-08-13 19:36:28.257745 [debug]: UserVerify success!!
+2022-08-13 19:36:28.257751 [debug]: Body:username=2020210594&password=mi020418, len:37
+2022-08-13 19:36:28.257755 [debug]: [POST], [/welcome.html], [1.1]
+2022-08-13 19:36:28.257758 [debug]: /welcome.html
+2022-08-13 19:36:28.257802 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//welcome.html
+2022-08-13 19:36:28.258183 [debug]: Filesize:3161, 2, to 3283
+2022-08-13 19:36:28.258534 [error]: RequestLine Error!
+2022-08-13 19:36:28.258648 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//404.html
+2022-08-13 19:36:28.259096 [debug]: Filesize:3149, 2, to 3241
+2022-08-13 19:36:28.259350 [info] : Client[27] quit!
+2022-08-13 19:36:28.259560 [info] : Client[27](192.168.241.1:6338) quit, UserCount:5
+2022-08-13 19:36:28.486722 [debug]: [GET], [/js/bootstrap.min.js], [1.1]
+2022-08-13 19:36:28.487193 [debug]: /js/bootstrap.min.js
+2022-08-13 19:36:28.487659 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//js/bootstrap.min.js
+2022-08-13 19:36:28.487995 [debug]: Filesize:36868, 2, to 36998
+2022-08-13 19:36:28.488223 [debug]: [GET], [/js/jquery.magnific-popup.min.js], [1.1]
+2022-08-13 19:36:28.488277 [debug]: /js/jquery.magnific-popup.min.js
+2022-08-13 19:36:28.488391 [debug]: [GET], [/js/smoothscroll.js], [1.1]
+2022-08-13 19:36:28.488430 [debug]: /js/smoothscroll.js
+2022-08-13 19:36:28.488609 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//js/jquery.magnific-popup.min.js
+2022-08-13 19:36:28.488667 [debug]: Filesize:20932, 2, to 21062
+2022-08-13 19:36:28.487198 [debug]: [GET], [/js/jquery.js], [1.1]
+2022-08-13 19:36:28.489022 [debug]: /js/jquery.js
+2022-08-13 19:36:28.489081 [info] : Client[25](192.168.241.1:17346) in, userCount:6
+2022-08-13 19:36:28.489277 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//js/jquery.js
+2022-08-13 19:36:28.489372 [debug]: [GET], [/js/magnific-popup-options.js], [1.1]
+2022-08-13 19:36:28.489629 [info] : Client[25] in!
+2022-08-13 19:36:28.489736 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//js/smoothscroll.js
+2022-08-13 19:36:28.489743 [debug]: Filesize:85658, 2, to 85788
+2022-08-13 19:36:28.489668 [debug]: /js/magnific-popup-options.js
+2022-08-13 19:36:28.489920 [debug]: Filesize:4474, 2, to 4603
+2022-08-13 19:36:28.490366 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//js/magnific-popup-options.js
+2022-08-13 19:36:28.490572 [debug]: Filesize:1069, 2, to 1198
+2022-08-13 19:36:28.491342 [debug]: [GET], [/js/wow.min.js], [1.1]
+2022-08-13 19:36:28.491434 [debug]: /js/wow.min.js
+2022-08-13 19:36:28.491482 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//js/wow.min.js
+2022-08-13 19:36:28.491661 [debug]: Filesize:7082, 2, to 7211
+2022-08-13 19:36:28.492551 [debug]: [GET], [/css/animate.css], [1.1]
+2022-08-13 19:36:28.492708 [debug]: /css/animate.css
+2022-08-13 19:36:28.492857 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//css/animate.css
+2022-08-13 19:36:28.492976 [debug]: Filesize:72922, 2, to 73045
+2022-08-13 19:36:28.493353 [debug]: [GET], [/js/custom.js], [1.1]
+2022-08-13 19:36:28.493502 [debug]: [GET], [/css/bootstrap.min.css], [1.1]
+2022-08-13 19:36:28.493813 [debug]: /css/bootstrap.min.css
+2022-08-13 19:36:28.493676 [debug]: /js/custom.js
+2022-08-13 19:36:28.493938 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//css/bootstrap.min.css
+2022-08-13 19:36:28.494899 [debug]: Filesize:121260, 2, to 121384
+2022-08-13 19:36:28.494043 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//js/custom.js
+2022-08-13 19:36:28.494767 [debug]: [GET], [/css/style.css], [1.1]
+2022-08-13 19:36:28.496594 [debug]: /css/style.css
+2022-08-13 19:36:28.494307 [debug]: [GET], [/css/font-awesome.min.css], [1.1]
+2022-08-13 19:36:28.493968 [debug]: [GET], [/css/magnific-popup.css], [1.1]
+2022-08-13 19:36:28.496978 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//css/style.css
+2022-08-13 19:36:28.497167 [debug]: /css/magnific-popup.css
+2022-08-13 19:36:28.497196 [debug]: Filesize:9807, 2, to 9929
+2022-08-13 19:36:28.495208 [debug]: Filesize:1047, 2, to 1176
+2022-08-13 19:36:28.497263 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//css/magnific-popup.css
+2022-08-13 19:36:28.497284 [debug]: Filesize:6951, 2, to 7073
+2022-08-13 19:36:28.497042 [debug]: /css/font-awesome.min.css
+2022-08-13 19:36:28.497420 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//css/font-awesome.min.css
+2022-08-13 19:36:28.497442 [debug]: Filesize:27392, 2, to 27515
+2022-08-13 19:36:28.534715 [debug]: [GET], [/images/profile-image.jpg], [1.1]
+2022-08-13 19:36:28.534870 [debug]: /images/profile-image.jpg
+2022-08-13 19:36:28.534978 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//images/profile-image.jpg
+2022-08-13 19:36:28.535061 [debug]: Filesize:47176, 2, to 47300
+2022-08-13 19:36:28.783675 [debug]: [GET], [/images/favicon.ico], [1.1]
+2022-08-13 19:36:28.783909 [debug]: /images/favicon.ico
+2022-08-13 19:36:28.784122 [debug]: file path /home/seduce/VSCode/C++/Webserver/resources//images/favicon.ico
+2022-08-13 19:36:28.784213 [debug]: Filesize:60990, 2, to 61114
+2022-08-13 19:36:28.784258 [info] : Client[22] quit!

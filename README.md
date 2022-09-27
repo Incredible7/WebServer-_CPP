@@ -12,7 +12,7 @@
 ## blockqueue.h
 利用阻塞队列的模型进行信号量与互斥锁共同维护多线程日志异步操作，其中注意的点提一下：
 首先是`std::lock_guard<std::mutex>`和`std::unique_lock<std::mutex>`的区别：
-C++11中引入了std::unique_lock与std::lock_guard两种数据结构。通过对lock和unlock进行一次锁的封装，实现自动unlock的功能。
+C++11中引入了`std::unique_lock`与`std::lock_guard`两种数据结构。通过对lock和unlock进行一次锁的封装，实现自动unlock的功能。
 采用RAII手法管理mutex的std::lock_guard，其功能是在对象构造时将mutex加锁，析构时对mutex解锁，这样一个栈对象保证了在异常情形下mutex可以在lock_guard对象析构被解锁，lock_guard拥有mutex的所有权。
 
 unique_lock 在使用上比lock_guard更具有弹性，和 lock_guard 相比，unique_lock 主要的特色在于：
@@ -21,10 +21,7 @@ unique_lock 虽然一样不可复制（non-copyable），但是它是可以转�
 另外，unique_lock 也有提供 lock()、unlock() 等函数，可以用来加锁解锁mutex，也算是功能比较完整的地方。
 unique_lock本身还可以用于std::lock参数，因为其具备lock、unlock、try_lock成员函数,这些函数不仅完成针对mutex的操作还要更新mutex的状态。
 
-值得一提的是，如果编译器支持C++17，`std::lock_guard<std::mutex>`可以被替换为`std::scoped_lock<...>`。后者具有类模板参数推导的特性，可以接受多个参数，与std::lock()一样可以在同时获取多个锁的时候防止死锁。
-
-有关unique_lock资料可见C++并发编程实战第二版P60
-有关scoped_lock资料可见C++并发编程实战第二版P52
+值得一提的是，如果编译器支持C++17，`std::lock_guard<std::mutex>`可以被替换为`std::scoped_lock<...>`。后者具有类模板参数推导的特性，可以接受多个参数，与`std::lock()`一样可以在同时获取多个锁的时候防止死锁。
 
 # 线程池和数据库pool
 **注意semaphore 、mutex 、condition_variable 的区别**

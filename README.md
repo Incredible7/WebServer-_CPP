@@ -77,8 +77,8 @@ Reactor设计模式是一种为处理并发服务请求，并将请求提交到�
 常见的为单Reactor多线程模型和主从Reactor多线程模型。
 
 
-##工作流程：
-1. Reactor对象通过I/O多路复用技术（项目里是epoll）监听客户端事件，收到事件后由分发器dispatchor（提供注册、删除与转发event handler的方法，event handler即调用回调，一种事件处理机制）进行分发。
+## 工作流程：
+1. Reactor对象通过I/O多路复用技术（项目里是epoll）监听客户端事件，收到事件后由分发器 dispatchor（提供注册、删除与转发event handler的方法，event handler即调用回调，一种事件处理机制）进行分发。
 2. 如果是建立连接请求，利用accept处理连接请求，之后交给handler处理事件；如果没有请求连接，直接交付给handler。
 3. handler只负责响应事件，不做具体的业务处理，通过read/readv读取数据后，分发给后面的worker线程池某个线程处理业务。
 4. worker线程池会分配独立线程完成真正的业务，并将结果返回给handler。
@@ -88,7 +88,7 @@ Reactor设计模式是一种为处理并发服务请求，并将请求提交到�
 
 主从Reactor模型基于以上模型，分为一个Main Reactor和一个或多个Sub Reactor，主线程负责接受并分发任务给子线程，子线程继续递交事件给相应的线程池。
 
-##Reactor模式的优点
+## Reactor模式的优点
 1. 响应块，不必为单个同步时间所阻塞，虽然Reactor本身依然时同步的。
 2. 可以最大程度的避免复杂的多线程及同步问题，并且避免多线程/进程的切换开销。
 3. 扩展性好，可以方便的通过增加Reactor实例个数来充分利用CPU资源。
